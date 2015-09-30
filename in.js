@@ -1,4 +1,3 @@
-/**
- * Created by IT PROSTIR on 29.09.2015.
+/* тестовы проект jscourses Киев 2015
  */
-dfgdhfghfddfgadfjgghsdfghsfgh
+// функция: Лиза, юниты: Сергей
